@@ -8,11 +8,9 @@ package com.mycompany.math.adventure;
  *
  * @author pikar
  */
-public class MATHADVENTURE {
+public class PRPICASSO {
 
     public static void main(String[] args) {
-        System.out.println("Prueba git commit");
-        System.out.println("Hola profe");
-        System.out.println("AAAAAAAAAAAA");
+        System.out.println("CLONAR GIT Y PULL");
     }
 }
